@@ -1,2 +1,2 @@
-# blurred
-Project Game
+# Blurred
+Stick Man Project Game
